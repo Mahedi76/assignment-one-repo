@@ -151,3 +151,110 @@ nav > button {
     padding: 10px 18px;
     font-size: 18px;
 }
+
+
+/* My inspiration */
+
+.ins{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+
+.ins-head{
+    margin-top: 85px;
+    margin-bottom: 24px;
+    font-size: 32px;
+}
+
+.video {
+    padding: 32px;
+    border-radius: 16px;
+    border: 1px solid rgba(13, 19, 33, 0.20);
+}
+.video iframe {
+    height: 550px;
+    width: 100%;
+    border-radius: 16px;
+}
+
+
+.current-page{
+    max-width: 1140px;
+    margin-top: 200px;
+    margin: 0 auto;
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+}
+
+.current-head{
+    text-align: center;
+    margin-top: 26px;
+}
+
+.cur-head{
+    padding: 24px;
+}
+
+.lang-container{
+    margin-top: 48px;
+    /* display: flex; */
+}
+
+.lang{
+    display: flex;
+    /* margin-left: 24px; */
+    justify-content: center;
+    text-align: 0;
+    box-sizing: border-box;
+    box-shadow: #FFF;
+    
+    border-radius: 2px solid red;
+}
+
+.html-head{
+    margin-top: 24px;
+}
+
+.html-p{
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+.lang-text-1{
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.lang-text-2{
+    margin-left: 24px;
+    padding: 40px;
+    border-radius: 16px;
+    /* margin: 0 auto; */
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.css-head{
+    margin-top: 24px;
+}
+
+.css-p{
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
+
+.lang-text-3{
+    margin-left: 24px;
+    padding: 40px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+.js-head{
+    margin-top: 24px;
+}
+
+.js-p{
+    margin-top: 8px;
+    margin-bottom: 24px;
+}
