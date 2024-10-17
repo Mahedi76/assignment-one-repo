@@ -393,3 +393,43 @@ nav > button {
     text-align: center;
     font-style: #0D1321;
 }
+
+
+/* last-item */
+
+.last-part{
+    max-width: 1140px;
+    margin: 0 auto;
+    padding: 32px 150px;
+    
+}
+
+.last-item{
+    /* display: inline-flex; */
+    justify-content: space-between;
+}
+
+.list-content{
+    display: flex;
+    justify-content: space-between;
+    /* align-items: flex-start; */
+}
+
+.last-head{
+    /* margin: 0 auto; */
+    margin-left: 0px;
+    
+
+}
+
+.last-img{
+    /* margin-right: 24px; */
+}
+
+.l-img1{
+    margin-right: 24px;
+}
+
+.l-img2{
+    margin-right: 24px;
+}
