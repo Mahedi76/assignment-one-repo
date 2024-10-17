@@ -73,3 +73,81 @@ nav > button {
     color: #FFFFFF;
     cursor: pointer;
 }
+
+/* Why Web Development */
+#whydev{
+    max-width: 1140px;
+    margin: 0 auto;
+    /* margin-bottom: 24px; */
+    border-radius: 16px;
+    background: rgba(13, 19, 33, 0.02);
+    padding: 80px 97px;
+    margin-bottom: 24px;
+}
+
+.dev-head{
+    font-size: 32px;
+    margin-bottom: 24px;
+    font-weight: 800;
+    color: #0D1321;
+}
+
+.dev-p{
+    font-size: 16px;
+    color: #0D1321;
+    text-align: center;
+    font-weight: 400;
+
+
+}
+
+.section-head {
+    text-align: center;
+    margin-bottom: 48px;
+}
+.item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 16px;
+    background: linear-gradient(90deg, #FFF 0%, rgba(255, 255, 255, 0.00) 100%);
+    padding: 48px;
+    margin: 28px;
+    margin-right: 5px;
+}
+.item .item-text h3{
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 36px;
+    margin-bottom: 16px;
+}
+.item .item-text p{
+    color: #0D1321;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    margin-bottom: 32px;
+}
+
+.item-head{
+    color: rgba(13, 19, 33, 0.70);
+    font-size: 280px;
+    font-weight: 800;
+
+}
+
+.btn1{
+    padding: 10px 18px;
+    font-size: 18px;
+}
+
+.item2-btn{
+    padding: 10px 18px;
+    font-size: 18px;
+}
+
+.btn3{
+    padding: 10px 18px;
+    font-size: 18px;
+}
