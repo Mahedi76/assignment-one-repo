@@ -341,3 +341,55 @@ nav > button {
     margin-top: 8px;
     margin-bottom: 24px;
 }
+
+
+/* Support section */
+
+.need-support{
+    max-width: 1140px;
+    margin: 0 auto;
+    border-radius: 8px;
+    margin-bottom: 42px;
+    
+}
+
+.support-container{
+     
+    background-image: url(./images/handshake.jpg);
+    margin: 0 auto;
+    text-align: center;
+    padding: 64px 48px;
+    margin-top: 42px;
+}
+
+.support-head{
+    margin-bottom: 16px;
+}
+
+.support-p{
+    margin-bottom: 24px;   
+}
+
+.support-search{
+    /* padding: 19px 20px; */
+    
+    /* justify-content: space-between; */
+    border-radius: 8px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    
+    background: #FFF;
+    padding: 19px 20px;
+    margin: 0 auto;
+    /* align-items: center; */
+
+}
+
+.support-btn{
+    margin-left: 16px;
+    padding: 17px 20px;
+    border-radius: 2px;
+    background: #FFF;
+    font-size: 20px;
+    text-align: center;
+    font-style: #0D1321;
+}
